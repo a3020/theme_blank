@@ -8,7 +8,7 @@ A blank concrete5 8+ theme
 - One area
 
 ## Installation
-`$ composer install a3020/theme_blank`
+`$ composer require a3020/theme_blank`
 
 `$ ./vendor/bin/concrete5 c5:package-install theme_blank`
 
