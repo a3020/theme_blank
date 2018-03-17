@@ -1,0 +1,6 @@
+{
+    "name": "a3020/theme_blank",
+    "description": "Blank theme for concrete5 8+",
+    "type": "concrete5-package",
+    "license": "MIT"
+}
